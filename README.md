@@ -26,13 +26,10 @@ ReBazar also promotes **sustainable shopping** by encouraging product reuse and 
 
 ## 🌐 Live Project
 
-### Frontend
+### Live Project
 
 🔗 https://reseller-frontend-silk.vercel.app
 
-### Backend API
-
-🔗 https://reseller-backend-pi.vercel.app
 
 ---
 
@@ -589,9 +586,9 @@ Add admin dashboard screenshot here
 
 📧 Email: `avishekroyyash@gmail.com`
 
-🔗 GitHub: [github.com/avishekroyyash](https://github.com/avishekrayyash)
+🔗 GitHub: [github.com/avishekrayyash](https://github.com/avishekrayyash)
 
-🔗 LinkedIn: [linkedin.com/in/avishek-roy-yash](https://linkedin.com/in/avishek-ray-yash)
+🔗 LinkedIn: [linkedin.com/in/avishek-ray-yash](https://linkedin.com/in/avishek-ray-yash)
 
 ---
 
